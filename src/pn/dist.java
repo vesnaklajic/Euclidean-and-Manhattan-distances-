@@ -7,7 +7,7 @@ public class dist {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		// array of coordinates
+		// double array, matrix, of coordinates
 		double[][] dist = new double[4][5];
 
 		// result array
