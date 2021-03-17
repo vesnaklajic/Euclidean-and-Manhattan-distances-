@@ -5,7 +5,7 @@ However, this depends on the distance metric employed. Between points (x1,y1) an
 
 However, other distance metrics are often useful. For instance, in a city full of buildings, it is often impossible to travel in a straight line between two points, since buildings are in the way. In this case, the so-called Manhattan (or city-block) distance is the most useful:
 - |x1−x2|+|y1−y2|
-- 
+
 Both Euclidean and city-block distance are specific instances of what is more generally called the family of p -norms. The distance according to norm p
 is given by
 - (|x1−x2|p+|y1−y2|p)1/p
